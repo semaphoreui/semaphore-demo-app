@@ -1,3 +1,3 @@
 # Demo App
 
-Simple HTML page to demonstrate how Ansible Semaphore works.
+Simple HTML page to demonstrate how Semaphore UI works.
